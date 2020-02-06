@@ -28,8 +28,8 @@ module.exports = {
   PRE_PK_P256: '03b28b7f',
   PRE_PK_P256K: '03fee256',
 
-  PRE_PKH_P256: '06a1a4',
-  PRE_PKH_P256K: '06a1a1',
+  PRE_PKH_P256: '04b106',
+  PRE_PKH_P256K: '04b103',
 
   PRE_SIG_P256: '36f02c34',
   PRE_SIG_P256K: '0d7365133f',
